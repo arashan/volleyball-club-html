@@ -387,7 +387,7 @@ a {
 .login-form {
   width: 400px;
   padding: 30px;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.85);
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
